@@ -23,7 +23,8 @@ https://www.coingecko.com/
 ![Market-1](Assets/MarketPage-1.png)
 ![Market-2](Assets/MarketPage-2.png)
 3. Smooth scrolling animation added using *aos* Library
-<video controls src="Assets/Brokerax-aos.mp4" title="Brokerax Landing Page"></video>
+https://github.com/NishantBansal2003/Brokerax-Cryptocurrency-Website/blob/main/Assets/Brokerax-aos.mp4
+
 4. Buying and Selling feature Implemented with real-time update on Current price of coins 
 ![BuyCoins](Assets/BuyCoins.png)
 ![SellCoins](Assets/SellCoins.png)
