@@ -25,7 +25,7 @@ https://www.coingecko.com/
 ![Market-2](Assets/MarketPage-2.png)
 
 3. Smooth scrolling animation added using *aos* Library.
-https://github.com/user-attachments/assets/1049c2e3-5862-4ee7-9fb6-13ae28fa04a4
+<video src="https://github.com/user-attachments/assets/1049c2e3-5862-4ee7-9fb6-13ae28fa04a4"></video>
 
 4. Buying and Selling feature Implemented with real-time update on Current price of coins 
 ![BuyCoins](Assets/BuyCoins.png)
