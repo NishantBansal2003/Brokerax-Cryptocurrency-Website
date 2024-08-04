@@ -12,7 +12,12 @@ https://www.coingecko.com/
 1. **Frontend-Image** :- [nishantbansal640/brokerax-frontend](https://hub.docker.com/r/nishantbansal640/brokerax-frontend)
 2. **Backend-Image** :- [nishantbansal640/brokerax-backend](https://hub.docker.com/r/nishantbansal640/brokerax-backend)
 
-
+## Building Locally Using Docker
+Run the following command
+~~~
+docker compose up
+~~~
+Visit: `http://localhost:3000`
 ## Features
 ![HomePage](Assets/HomePage.png)
 1. Sign In and Sign Up Pages with Crypto Coin Animation.
