@@ -1,8 +1,8 @@
 # [Brokerax - The World's Fastest Growing Crypto Web App](https://brokerax-nishant.netlify.app/)
 
 ## API's Used
-
-https://www.coingecko.com/
+- **Coin Data**:- https://www.coingecko.com/
+- **Backend URL** :- https://brokerax-golang-backend.onrender.com
 
 ## TechStack
 1. **Frontend** :- React-Typescript, TailwindCSS, Docker, React-three
@@ -18,6 +18,11 @@ Run the following command
 docker compose up
 ~~~
 Visit: `http://localhost:3000`
+
+## Prometheus Support
+To Check Site Monitoring Visit:-
+[https://brokerax-golang-backend.onrender.com/metrics](https://brokerax-golang-backend.onrender.com/metrics)
+
 ## Features
 ![HomePage](Assets/HomePage.png)
 1. Sign In and Sign Up Pages with Crypto Coin Animation.
