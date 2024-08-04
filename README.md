@@ -43,4 +43,7 @@ To Check Site Monitoring Visit:-
 
 5. Made Website fully responsive
 
+**Note**: Don't worry, your password is encrypted, so no one can see it.
+
 **Note**: This is a simulation website where you can experience buying and selling crypto coins. Please be aware that while the coin price data shown is real-time, the coins you buy and sell on this platform are not real and cannot be exchanged for actual cryptocurrency.
+
