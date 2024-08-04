@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  backend:
+    image: nishantbansal640/brokerax-backend
+    ports:
+      - "4001:4001"
+    networks:
+      - brokerax-network
+
+  frontend:
+    image: nishantbansal640/brokerax-frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - brokerax-network
+
+networks:
+  brokerax-network:
+    driver: bridge

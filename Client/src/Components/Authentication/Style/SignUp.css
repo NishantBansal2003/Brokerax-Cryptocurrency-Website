@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+  .a3d-model {
+    display: none;
+  }
+  .form-container {
+    /* background-color:white; */
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+  }
+}

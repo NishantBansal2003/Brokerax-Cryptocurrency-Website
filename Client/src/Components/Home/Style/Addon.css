@@ -1,0 +1,72 @@
+.aboutrem {
+  background-color: white;
+}
+
+.about-content {
+  padding: 3vw;
+}
+
+.carderabout {
+  background-color: #ffffff;
+  margin: 50px 50px;
+  text-align: center;
+  border-radius: 10px;
+
+  display: inline-block;
+  width: 30vw;
+}
+
+.batman-boxabout {
+  text-align: center;
+}
+
+.card__imageabout {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: 30vw;
+}
+
+.card__copyabout {
+  padding: 20px;
+}
+
+.carderabout p {
+  text-align: center;
+  font-size: 150%;
+}
+
+.carderabout h1 {
+  text-align: center;
+  font-size: 300%;
+}
+
+.banner-b1234 {
+  background-color: var(--color-primary);
+  border-radius: 10px;
+  padding: 1rem 2rem;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0rem 2rem 4rem var(--color-light);
+  margin: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .card__imageabout {
+    width: 70vw;
+  }
+
+  .carderabout {
+    width: 70vw;
+  }
+
+  .carderabout p {
+    text-align: center;
+    font-size: 150%;
+  }
+
+  .carderabout h1 {
+    text-align: center;
+    font-size: 200%;
+  }
+}
